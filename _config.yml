@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dr. Moritz von Zahn"
+title                    : "Overview"
 title_separator          : "-"
 name                     : &name "Moritz von Zahn"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_pic.png"
-  name             : "Moritz von Zahn"
+  name             : "Dr. Moritz von Zahn"
   pronouns         : # example: "she/her"  
   bio              : "I research and consult on artificial intelligence (AI) in information systems."
   location         : # "Frankfurt, Germany"
