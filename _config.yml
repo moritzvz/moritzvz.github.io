@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=KLQGW44AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1160-1007"
+  orcid            : # "https://orcid.org/my-orcid?orcid=0000-0003-1160-1007"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -359,6 +359,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-search: false
