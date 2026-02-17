@@ -9,6 +9,6 @@ venue: "Marketing Science"
 
 paperurl: "https://doi.org/10.1287/mksc.2022.0393"
 pdfurl: "https://pubsonline.informs.org/doi/epdf/10.1287/mksc.2022.0393"
-citation: "<b>Moritz von Zahn, Kevin Bauer, Cristina Mihale-Wilson, Johanna Jagow, Maximilian Speicher, Oliver Hinz (2025)</b>: Smart Green Nudging: Reducing Product Returns Through Digital Footprints and Causal Machine Learning, <i>Marketing Science</i>, 44(4):954-969."
+citation: "<b>M. von Zahn, K. Bauer, C. Mihale-Wilson, J. Jagow, M. Speicher, O. Hinz (2025)</b>: Smart Green Nudging: Reducing Product Returns Through Digital Footprints and Causal Machine Learning, <i>Marketing Science</i>, 44(4):954-969."
 ---
 This paper demonstrates the potential of green nudging and causal machine learning for reducing product returns in e-commerce.
