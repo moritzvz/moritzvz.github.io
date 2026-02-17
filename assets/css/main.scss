@@ -43,29 +43,3 @@
 ;
 
 
-
-/* --- Remove the grey footer block + extra padding from theme --- */
-.page__footer,
-.page__footer .page__footer-inner-wrap,
-.site-footer {
-  background: transparent !important;
-  border-top: none !important;
-  box-shadow: none !important;
-}
-
-.page__footer {
-  padding: 0 !important;
-  margin-top: 2rem !important;
-}
-
-.page__footer .page__footer-inner-wrap {
-  padding: 0 !important;
-}
-
-/* Your minimal footer styling */
-.site-footer-minimal {
-  font-size: 0.85rem;
-  opacity: 0.75;
-  text-align: center;
-  padding: 0 0 1.5rem 0;
-}
