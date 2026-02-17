@@ -1,0 +1,9 @@
+/*hide hamburger/greedy-nav toggle */
+.greedy-nav__toggle {
+  display: none !important;
+}
+
+/* hide dropdown “hidden links” container */
+.greedy-nav .hidden-links {
+  display: none !important;
+}
