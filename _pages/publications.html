@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can find a full list of my publications on <a href="https://scholar.google.com/citations?user=KLQGW44AAAAJ&hl=en">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
 ## Selected journal publications
@@ -19,4 +15,9 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can find a full list of my publications on <a href="https://scholar.google.com/citations?user=KLQGW44AAAAJ&hl=en">my Google Scholar profile</a>.</div>
+{% endif %}
 
