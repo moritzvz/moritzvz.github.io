@@ -1,24 +1,30 @@
 ---
 layout: archive
-title: "Publications (selection)"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<h2>Research Profile</h2>
+
+<p>I am a quantitative empirical researcher studying the design, application, and impact of artificial intelligence (AI) in business and society. My recent work examines factors facilitating human-AI collaboration, AI-driven behavioral interventions (e.g., "smart nudging"), and the economic impact of generative AI on content creators.</p>
+
+<p>Methodologically, I combine observational data with evidence from controlled online and large-scale field experiments. My research is published in leading management science journals (e.g., <em>Information Systems Research</em> and <em>Marketing Science</em>) as well as various peer-reviewed conferences and practitioner outlets.</p>
+
+<h2>Publications (selection)</h2>
+
 <hr />
 
 {% for post in site.publications reversed %}
   {% if post.category == "journal" %}
-  <p>    
+  <p>
     {% include archive-single.html %}
   </p>
   {% endif %}
 {% endfor %}
 
-
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can find a full list of my publications on <a href="https://scholar.google.com/citations?user=KLQGW44AAAAJ&hl=en">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can find a full list of my publications on <a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=KLQGW44AAAAJ&hl=en">my Google Scholar profile</a>.</div>
 {% endif %}
-
