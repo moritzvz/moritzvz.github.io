@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+.cv-meta { color: #555; }
+@media (prefers-color-scheme: dark) { .cv-meta { color: #aaa; } }
+</style>
+
 See the [Research](/publications/) and [Teaching](/teaching/) tabs for further details.
 
 ---
@@ -17,49 +22,49 @@ See the [Research](/publications/) and [Teaching](/teaching/) tabs for further d
 
 <table style="width:100%; border-collapse:collapse; font-size:0.95em;">
   <tr>
-    <td style="width:160px; vertical-align:top; color:#555; padding:6px 16px 14px 0; white-space:nowrap;">since 08.2024</td>
+    <td class="cv-meta" style="width:160px; vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">since 08.2024</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>Post-Doctoral Researcher and Lecturer</strong><br>
       Goethe University Frankfurt, Germany
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:6px 16px 14px 0; white-space:nowrap;">10.2023 – 12.2023</td>
+    <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">10.2023 – 12.2023</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>Visiting Researcher</strong>, Department of Information Systems<br>
       Boston University, USA
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:6px 16px 14px 0; white-space:nowrap;">since 02.2022</td>
+    <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">since 02.2022</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>Independent Consultant</strong><br>
       Strategic advisory on AI applications and causal analytics · Frankfurt, Germany
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:6px 16px 14px 0; white-space:nowrap;">09.2020 – 11.2020</td>
+    <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">09.2020 – 11.2020</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>Consulting Intern</strong>, Project on Business Analytics<br>
       McKinsey & Company, Cologne, Germany
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:6px 16px 14px 0; white-space:nowrap;">03.2020 – 08.2020</td>
+    <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">03.2020 – 08.2020</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>Research Assistant</strong>, Management Information Systems<br>
       ETH Zurich, Switzerland
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:6px 16px 14px 0; white-space:nowrap;">05.2017 – 10.2017</td>
+    <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">05.2017 – 10.2017</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>Research Intern</strong>, dept. "Connected Industry" (NoSQL in manufacturing)<br>
       Robert Bosch GmbH, Stuttgart, Germany
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:6px 16px 14px 0; white-space:nowrap;">07.2014 – 09.2014</td>
+    <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">07.2014 – 09.2014</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>Project Associate</strong>, Controlling and Financial Services<br>
       GIZ International Services, Riyadh, Saudi Arabia
@@ -73,21 +78,21 @@ See the [Research](/publications/) and [Teaching](/teaching/) tabs for further d
 
 <table style="width:100%; border-collapse:collapse; font-size:0.95em;">
   <tr>
-    <td style="width:160px; vertical-align:top; color:#555; padding:6px 16px 14px 0; white-space:nowrap;">02.2021 – 07.2024</td>
+    <td class="cv-meta" style="width:160px; vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">02.2021 – 07.2024</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>PhD in Information Systems and Applied Machine Learning</strong> · <em>summa cum laude</em><br>
       Goethe University Frankfurt, Germany · Supervised by Prof. Oliver Hinz
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:6px 16px 14px 0; white-space:nowrap;">10.2019 – 03.2020</td>
+    <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">10.2019 – 03.2020</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>Master Thesis</strong> (DAAD Research Scholarship)<br>
       ETH Zurich, Switzerland · MTEC
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:6px 16px 14px 0; white-space:nowrap;">10.2017 – 04.2020</td>
+    <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">10.2017 – 04.2020</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>M.Sc. Industrial Engineering</strong>, grade 1.1 (with distinction)<br>
       Karlsruhe Institute of Technology (KIT), Germany · Focus: informatics, statistics, design thinking<br>
@@ -95,7 +100,7 @@ See the [Research](/publications/) and [Teaching](/teaching/) tabs for further d
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:6px 16px 14px 0; white-space:nowrap;">10.2014 – 09.2017</td>
+    <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">10.2014 – 09.2017</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>B.Sc. Industrial Engineering</strong>, grade 1.4 (top 6% of class)<br>
       Karlsruhe Institute of Technology (KIT), Germany · Focus: statistics, informatics, industrial production<br>
@@ -110,27 +115,27 @@ See the [Research](/publications/) and [Teaching](/teaching/) tabs for further d
 
 <table style="width:100%; border-collapse:collapse; font-size:0.95em;">
   <tr>
-    <td style="width:60px; vertical-align:top; color:#555; padding:4px 16px 10px 0;">2025</td>
+    <td style="width:60px; vertical-align:top; padding:4px 16px 10px 0;">2025</td>
     <td style="vertical-align:top; padding:4px 0 10px 0;">Add-on Fellowship of the <em>Joachim Herz Foundation</em></td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:4px 16px 10px 0;">2024</td>
+    <td class="cv-meta" style="vertical-align:top; padding:4px 16px 10px 0;">2024</td>
     <td style="vertical-align:top; padding:4px 0 10px 0;"><em>WISE</em> Best Paper Award (Workshop on Information Systems and Economics)</td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:4px 16px 10px 0;">2024</td>
+    <td class="cv-meta" style="vertical-align:top; padding:4px 16px 10px 0;">2024</td>
     <td style="vertical-align:top; padding:4px 0 10px 0;"><em>Goethe University Frankfurt</em>'s Best Dissertation within Faculty</td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:4px 16px 10px 0;">2023</td>
+    <td class="cv-meta" style="vertical-align:top; padding:4px 16px 10px 0;">2023</td>
     <td style="vertical-align:top; padding:4px 0 10px 0;"><em>AIS</em> Best Information Systems Publication Award</td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:4px 16px 10px 0;">2023</td>
+    <td class="cv-meta" style="vertical-align:top; padding:4px 16px 10px 0;">2023</td>
     <td style="vertical-align:top; padding:4px 0 10px 0;"><em>INFORMS</em> Information Systems Research (ISR) Best Paper Award</td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:4px 16px 10px 0;">2022</td>
+    <td class="cv-meta" style="vertical-align:top; padding:4px 16px 10px 0;">2022</td>
     <td style="vertical-align:top; padding:4px 0 10px 0;"><em>INFORMS</em> Finalist, Gary-Lilien-Practice Prize Competition</td>
   </tr>
 </table>
@@ -141,14 +146,14 @@ See the [Research](/publications/) and [Teaching](/teaching/) tabs for further d
 
 <table style="width:100%; border-collapse:collapse; font-size:0.95em;">
   <tr>
-    <td style="width:160px; vertical-align:top; color:#555; padding:6px 16px 14px 0; white-space:nowrap;">356,600 EUR · 2025</td>
+    <td class="cv-meta" style="width:160px; vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">356,600 EUR · 2025</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>DFG Middle-East Collaboration</strong> (Operational Lead)<br>
       "Designing and Understanding Profit-Maximizing Recommender Systems for Online Retailing" · with University of Tel Aviv
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; color:#555; padding:6px 16px 14px 0; white-space:nowrap;">230,000 EUR · 2024</td>
+    <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">230,000 EUR · 2024</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>LOEWE Förderlinie 3, State of Hesse</strong> (Operational Lead)<br>
       "TransfAIr – Development and design of a software-supported conformity assessment for transparent and fair AI systems"
