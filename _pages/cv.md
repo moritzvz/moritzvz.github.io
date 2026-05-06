@@ -81,14 +81,14 @@ See the [Research](/publications/) and [Teaching](/teaching/) tabs for further d
     <td class="cv-meta" style="width:160px; vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">02.2021 – 07.2024</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>PhD in Information Systems and Applied Machine Learning</strong> · <em>summa cum laude</em><br>
-      Goethe University Frankfurt, Germany · Supervised by Prof. Oliver Hinz
+      Goethe University Frankfurt, Germany, supervised by Prof. Oliver Hinz
     </td>
   </tr>
   <tr>
     <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">10.2019 – 03.2020</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>Master Thesis</strong> (DAAD Research Scholarship)<br>
-      ETH Zurich, Switzerland · MTEC
+      ETH Zurich, Switzerland
     </td>
   </tr>
   <tr>
