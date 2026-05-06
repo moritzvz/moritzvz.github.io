@@ -96,7 +96,7 @@ See the [Research](/publications/) and [Teaching](/teaching/) tabs for further d
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>M.Sc. Industrial Engineering and Management</strong>, grade 1.1 (with distinction)<br>
       Karlsruhe Institute of Technology (KIT), Germany<br>
-      <em>Incl. exchange semester at IST Lisbon (2018/19) and fellowship of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)</em>
+      <em>Incl. semester at IST Lisbon (2018/19) and fellowship of the German Academic Scholarship Foundation (Studienstiftung)</em>
     </td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@ See the [Research](/publications/) and [Teaching](/teaching/) tabs for further d
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>B.Sc. Industrial Engineering and Management</strong>, grade 1.4 (top 6% of class)<br>
       Karlsruhe Institute of Technology (KIT), Germany<br>
-      <em>Incl. exchange semester at UNAM Mexico City (2016) and fellowship of the National Scholarship Program (Deutschlandstipendium)</em>
+      <em>Incl. semester at UNAM Mexico City (2016) and fellowship of the National Scholarship Program</em>
     </td>
   </tr>
 </table>
