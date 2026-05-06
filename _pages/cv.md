@@ -31,8 +31,8 @@ See the [Research](/publications/) and [Teaching](/teaching/) tabs for further d
   <tr>
     <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">10.2023 – 12.2023</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
-      <strong>Visiting Researcher</strong>, Department of Information Systems<br>
-      Boston University, USA
+      <strong>Visiting Researcher</strong><br>
+      Department of Information Systems, Boston University, USA
     </td>
   </tr>
   <tr>
@@ -45,28 +45,28 @@ See the [Research](/publications/) and [Teaching](/teaching/) tabs for further d
   <tr>
     <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">09.2020 – 11.2020</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
-      <strong>Consulting Intern</strong>, Project on Business Analytics<br>
-      McKinsey & Company, Cologne, Germany
+      <strong>Consulting Intern</strong><br>
+      McKinsey & Company · Cologne, Germany
     </td>
   </tr>
   <tr>
     <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">03.2020 – 08.2020</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
-      <strong>Research Assistant</strong>, Management Information Systems<br>
-      ETH Zurich, Switzerland
+      <strong>Research Assistant</strong><br>
+      Management Information Systems, ETH Zurich, Switzerland
     </td>
   </tr>
   <tr>
     <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">05.2017 – 10.2017</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
-      <strong>Research Intern</strong>, dept. "Connected Industry" (NoSQL in manufacturing)<br>
+      <strong>Research Intern</strong> for NoSQL databases in manufacturing<br>
       Robert Bosch GmbH, Stuttgart, Germany
     </td>
   </tr>
   <tr>
     <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">07.2014 – 09.2014</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
-      <strong>Project Associate</strong>, Controlling and Financial Services<br>
+      <strong>Project Associate</strong> in Controlling and Financial Services<br>
       GIZ International Services, Riyadh, Saudi Arabia
     </td>
   </tr>
@@ -94,17 +94,17 @@ See the [Research](/publications/) and [Teaching](/teaching/) tabs for further d
   <tr>
     <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">10.2017 – 04.2020</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
-      <strong>M.Sc. Industrial Engineering</strong>, grade 1.1 (with distinction)<br>
-      Karlsruhe Institute of Technology (KIT), Germany · Focus: informatics, statistics, design thinking<br>
-      <em>Incl. exchange semester at IST Lisbon (2018/19) · Scholar of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)</em>
+      <strong>M.Sc. Industrial Engineering and Management</strong>, grade 1.1 (with distinction)<br>
+      Karlsruhe Institute of Technology (KIT), Germany<br>
+      <em>Incl. exchange semester at IST Lisbon (2018/19) and fellowship of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)</em>
     </td>
   </tr>
   <tr>
     <td class="cv-meta" style="vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">10.2014 – 09.2017</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
-      <strong>B.Sc. Industrial Engineering</strong>, grade 1.4 (top 6% of class)<br>
-      Karlsruhe Institute of Technology (KIT), Germany · Focus: statistics, informatics, industrial production<br>
-      <em>Incl. exchange semester at UNAM Mexico City (2016) · Recipient of the National Scholarship Program (Deutschlandstipendium)</em>
+      <strong>B.Sc. Industrial Engineering and Management</strong>, grade 1.4 (top 6% of class)<br>
+      Karlsruhe Institute of Technology (KIT), Germany<br>
+      <em>Incl. exchange semester at UNAM Mexico City (2016) and fellowship of the National Scholarship Program (Deutschlandstipendium)</em>
     </td>
   </tr>
 </table>
