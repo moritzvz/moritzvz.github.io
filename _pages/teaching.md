@@ -8,21 +8,23 @@ author_profile: true
 ## <a href="https://www.uni-frankfurt.de/en" target="_blank" rel="noopener noreferrer">Goethe University Frankfurt</a>, Frankfurt, Germany (2021 – present)
 
 **Courses**
-- Co-Lecturer for *Social Network Analysis*, M.Sc. Business Informatics (SS 2025, WS 2025/26, SS 2026)
+- Co-Lecturer for *Social Network Analysis*, M.Sc. Business Informatics (SS 2025, WS 2025/26)
 - Ad-hoc Lecturer for *Business Informatics II*, B.Sc. Business Informatics (SS 2026)
 - Ad-hoc Lecturer for *Digital Business*, B.Sc. Business Administration (WS 2024/25, SS 2025, WS 2025/26)
 
 **Supervision**
-- Co-Supervisor of PhD students at the Chair of Information Systems and Information Management (since December 2024)
-- Supervisor of seminar works on applied machine learning (since February 2021)
-- Supervisor of Bachelor theses on applied machine learning and recommender systems (since February 2021)
-- Supervisor of Master theses on applied machine learning, human-AI interaction, algorithmic fairness, and explainable AI (since February 2021)
+- Co-Supervisor of PhD students at the Chair of Information Systems and Information Management (since 2024)
+- Supervisor of Master theses on applied machine learning, human-AI interaction, algorithmic fairness, and explainable AI (since 2021)
+- Supervisor of Bachelor theses on applied machine learning and recommender systems (since 2021)
+- Supervisor of Bachelor seminars on applied machine learning (since 2021)
+
 
 ---
 
 ## <a href="https://vgu.edu.vn/en/" target="_blank" rel="noopener noreferrer">German-Vietnamese University</a>, Ho-Chi-Minh City, Vietnam (2025 – present)
 
 - Lecturer for *Social Network Analysis*, M.Sc. in various programs (SS 2025, SS 2026)
+- Supervisor of Bachelor theses in various domains (since 2025)
 
 ---
 
