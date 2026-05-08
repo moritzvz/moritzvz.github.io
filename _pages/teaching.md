@@ -24,7 +24,7 @@ author_profile: true
 ## <a href="https://vgu.edu.vn/en/" target="_blank" rel="noopener noreferrer">German-Vietnamese University</a>, Ho-Chi-Minh City, Vietnam (2025 – present)
 
 - Lecturer for *Social Network Analysis*, M.Sc. in various programs (SS 2025, SS 2026)
-- Supervisor of Bachelor theses in various domains (since 2025)
+- Supervisor of Bachelor theses on various topics (since 2025)
 
 ---
 
