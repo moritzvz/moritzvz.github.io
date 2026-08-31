@@ -9,7 +9,7 @@ author_profile: true
 
 - Lecturer for *Data Modelling I*
 - Lecturer for *Data Modelling II*
-- ...
+- Lecturer for *Introduction to Data Science*
 
 ---
 
