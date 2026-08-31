@@ -21,8 +21,15 @@ See the [Research](/publications/) and [Teaching](/teaching/) tabs for further d
 ## Work Experience
 
 <table style="width:100%; border-collapse:collapse; font-size:0.95em;">
+   <tr>
+    <td class="cv-meta" style="width:160px; vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">since 09.2026</td>
+    <td style="vertical-align:top; padding:6px 0 14px 0;">
+      <strong>Assistant Professor</strong><br>
+      HEC Paris, France
+    </td>
+  </tr>
   <tr>
-    <td class="cv-meta" style="width:160px; vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">since 08.2024</td>
+    <td class="cv-meta" style="width:160px; vertical-align:top; padding:6px 16px 14px 0; white-space:nowrap;">08.2024 - 08.2026</td>
     <td style="vertical-align:top; padding:6px 0 14px 0;">
       <strong>Post-Doctoral Researcher and Lecturer</strong><br>
       Goethe University Frankfurt, Germany
