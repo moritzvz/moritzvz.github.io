@@ -27,11 +27,11 @@ author:
   name             : "Dr. Moritz von Zahn"
   pronouns         : # example: "she/her"  
   bio              : "I research, teach, and consult on human-AI interaction and AI-driven behavioral interventions."
-  location         : # "Frankfurt, Germany"
-  employer         : "Goethe University Frankfurt"
-  employer_url     : "https://www.uni-frankfurt.de/en"
+  location         : # "Paris, France"
+  employer         : "HEC Paris"
+  employer_url     : "https://www.hec.edu/en"
   uri              : # URL
-  email            : "vzahn@its.uni-frankfurt.de" 
+  email            : "von-zahn@hec.fr" 
 
   # Academic websites
   academia         : # URL
