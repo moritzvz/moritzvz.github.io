@@ -5,7 +5,22 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## <a href="https://www.uni-frankfurt.de/en" target="_blank" rel="noopener noreferrer">Goethe University Frankfurt</a>, Frankfurt, Germany (2021 – present)
+## <a href="https://www.hec.edu/en" target="_blank" rel="noopener noreferrer">HEC Paris</a>, Paris, France (since 2026)
+
+- Lecturer for *Data Modelling I*
+- Lecturer for *Data Modelling II*
+- ...
+
+---
+
+## <a href="https://vgu.edu.vn/en/" target="_blank" rel="noopener noreferrer">German-Vietnamese University</a>, Ho-Chi-Minh City, Vietnam (since 2025)
+
+- Lecturer for *Social Network Analysis*, M.Sc. in various programs (SS 2025, SS 2026)
+- Supervisor of Bachelor theses on various topics (since 2025)
+
+---
+
+## <a href="https://www.uni-frankfurt.de/en" target="_blank" rel="noopener noreferrer">Goethe University Frankfurt</a>, Frankfurt, Germany (2021 – 2026)
 
 **Courses**
 - Co-Lecturer for *Social Network Analysis*, M.Sc. Business Informatics (SS 2025, WS 2025/26)
@@ -18,13 +33,6 @@ author_profile: true
 - Supervisor of Bachelor theses on applied machine learning and recommender systems (since 2021)
 - Supervisor of Bachelor seminars on applied machine learning (since 2021)
 
-
----
-
-## <a href="https://vgu.edu.vn/en/" target="_blank" rel="noopener noreferrer">German-Vietnamese University</a>, Ho-Chi-Minh City, Vietnam (2025 – present)
-
-- Lecturer for *Social Network Analysis*, M.Sc. in various programs (SS 2025, SS 2026)
-- Supervisor of Bachelor theses on various topics (since 2025)
 
 ---
 
