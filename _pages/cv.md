@@ -174,6 +174,6 @@ See the [Research](/publications/) and [Teaching](/teaching/) tabs for further d
 
 **Reviewer** for *Management Science*, *Marketing Science*, *Journal of Marketing Research*, *Information Systems Research*, *MIS Quarterly*, *Information Systems Journal*, *Journal of the Association of Information Systems*, *Decision Sciences*, *Business & Information Systems Engineering*, and others.
 
-**Associate Editor** for *International Conference of Information Systems (ICIS)*, *European Conference on Information Systems (ECIS)*, *Wirtschaftsinformatik (WI)*, and others.
+**Associate Editor** for *Business & Information Systems Engineering (BISE)*, *International Conference of Information Systems (ICIS)*, *European Conference on Information Systems (ECIS)*, *Wirtschaftsinformatik (WI)*, and others.
 
 **Volunteering** as Youth Athletics Coach (canoeing), Founding Member and former Board Member (2018–2019) of *EduRef – Education for Refugees e.V.*, and others.
