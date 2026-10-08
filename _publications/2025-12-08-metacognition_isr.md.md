@@ -3,7 +3,7 @@ title: "Knowing (Not) to Know: Explainable Artificial Intelligence and Human Met
 collection: publications
 category: journal
 permalink: /publication/2025-metacognition-isr
-excerpt: "von Zahn et al. (2026). Knowing (Not) to Know: Explainable Artificial Intelligence and Human Metacognition. Information Systems Research, 37(3):1485-1507."
+excerpt: "von Zahn et al. (2026). Knowing (Not) to Know: Explainable Artificial Intelligence and Human Metacognition. Information Systems Research."
 date: 2025-12-08
 venue: "Information Systems Research"
 
